@@ -1,4 +1,4 @@
-# Python SHA256
+# Python SHA256 test
 
 
 ## how to use pyinstaller
